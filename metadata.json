@@ -1,0 +1,8 @@
+{
+  "name": "WAM Planning Dashboard",
+  "description": "A professional project planning and tracking dashboard with Google Sheets integration and automated data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
